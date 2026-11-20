@@ -1,0 +1,2 @@
+# obsidian-notes
+Мои конспекты
